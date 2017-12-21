@@ -2,6 +2,7 @@
   "$jason": {
     "head": {
       "title": "Jasopedia",
+      "offline": "true",
       "styles": {
         "bold": {
           "font": "HelveticaNeue-CondensedBold",
